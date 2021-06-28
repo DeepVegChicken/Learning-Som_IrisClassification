@@ -1,0 +1,10 @@
+一、环境要求
+python 3.7.9
+numpy 1.19.1
+minisom 2.2.7
+scikit-learn 0.23.2
+matplotlib 3.3.1
+
+二、文件说明
+SOM.py - SOM算法的单独实现
+SOM_iris.py - 基于SOM算法的iris数据集分类
